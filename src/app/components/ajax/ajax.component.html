@@ -1,0 +1,30 @@
+<p>Simple Angular Project using Ajax
+</p>
+
+<table>
+    <thead>
+        <tr>
+            <th
+                *ngFor="let col_name of Cols">
+                {{col_name}}
+            </th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr
+            *ngFor="let i of jsonData">
+            <td>{{i.id}}
+            </td>
+            <td>{{i.first_name}}
+            </td>
+            <td>{{i.last_name}}
+            </td>
+            <td>{{i.email}}
+            </td>
+            <td>{{i.gender}}
+            </td>
+            <td>{{i.age}}
+            </td>
+        </tr>
+    </tbody>
+</table>

@@ -1,0 +1,45 @@
+[
+  {
+  "id": 1,
+  "first_name": "Paulie",
+  "last_name": "Titheridge",
+  "email": "ptitheridge0@wsj.com",
+  "gender": "Male",
+  "age": "25"
+}, {
+  "id": 2,
+  "first_name": "Corly",
+  "last_name": "Browning",
+  "email": "cbrowning1@ycombinator.com",
+  "gender": "Female",
+  "age": "32"
+}, {
+  "id": 3,
+  "first_name": "Bendite",
+  "last_name": "Pawels",
+  "email": "bpawels2@google.com.au",
+  "gender": "Female",
+  "age": "41"
+}, {
+  "id": 4,
+  "first_name": "Shirline",
+  "last_name": "Fryett",
+  "email": "sfryett3@hugedomains.com",
+  "gender": "Female",
+  "age": "51"
+}, {
+  "id": 5,
+  "first_name": "Steve",
+  "last_name": "Hellen",
+  "email": "shellen4@springer.com",
+  "gender": "Male",
+  "age": "19"
+}, {
+  "id": 6,
+  "first_name": "Alexander",
+  "last_name": "Pearl",
+  "email": "wstar0506@gmail.com",
+  "gender": "Male",
+  "age": "37"
+}
+]
